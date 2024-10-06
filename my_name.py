@@ -1,1 +1,11 @@
 print('Mam na imię Karolina')
+
+print('Mam na imię Karolina')
+print('Mam na imię Karolina')
+print('Mam na imię Karolina')
+print('Mam na imię Karolina')
+print('Mam na imię Karolina')
+print('Mam na imię Karolina')
+print('Mam na imię Karolina')
+print('Mam na imię Karolina')
+print('Mam na imię Karolina')
